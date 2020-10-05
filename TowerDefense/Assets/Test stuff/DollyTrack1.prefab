@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6641459012189797294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6641459012189797292}
+  - component: {fileID: 6641459012189797295}
+  m_Layer: 0
+  m_Name: DollyTrack1
+  m_TagString: Cinemachine
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6641459012189797292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6641459012189797294}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.02, y: 24.4, z: 7.77}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6641459012189797295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6641459012189797294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a200b19ca1a9685429ed7e043c28e904, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Resolution: 20
+  m_Appearance:
+    pathColor: {r: 1, g: 0.17609823, b: 0, a: 1}
+    inactivePathColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    width: 0.4
+  m_Looped: 0
+  m_Waypoints:
+  - position: {x: -1.9, y: 0, z: -6.86}
+    roll: 0
+  - position: {x: -1.91188, y: -0.06939697, z: -3.3639536}
+    roll: 0
+  - position: {x: -1.9200001, y: -0.3324299, z: -0.8200002}
+    roll: 0
+  - position: {x: -1.5846875, y: -0.3744526, z: 0.1890626}
+    roll: 0
+  - position: {x: -0.26, y: -0.3354454, z: 0.1965704}
+    roll: 0
+  - position: {x: 0, y: -0.35952377, z: -0.61000013}
+    roll: 0
+  - position: {x: -0.004934311, y: -0.071208954, z: -2.7422438}
+    roll: 0
+  - position: {x: 0.0071587563, y: -0.1999836, z: -3.532806}
+    roll: 0
+  - position: {x: 0.010000229, y: -0.34144592, z: -4.89}
+    roll: 0
+  - position: {x: 0.19697905, y: -0.37729073, z: -5.728142}
+    roll: 0
+  - position: {x: 1.0935845, y: -0.24732208, z: -5.7983704}
+    roll: 0
+  - position: {x: 1.7078857, y: -0.33838654, z: -5.7762856}
+    roll: 0
+  - position: {x: 2.8565621, y: -0.3726139, z: -5.6472445}
+    roll: 0
+  - position: {x: 2.9500003, y: -0.34356308, z: -4.87}
+    roll: 0
+  - position: {x: 3.8899999, y: -0.36810303, z: -4.7468133}
+    roll: 0
+  - position: {x: 3.9867892, y: -0.39264488, z: -3.17}
+    roll: 0
+  - position: {x: 3.5317574, y: -0.35992432, z: -2.7904615}
+    roll: 0
+  - position: {x: 2.981586, y: -0.27812386, z: -2.201612}
+    roll: 0
+  - position: {x: 2.9642043, y: -0.36810303, z: 0.6325803}
+    roll: 0
+  - position: {x: 2.405044, y: -0.3108425, z: 1.2480607}
+    roll: 0
+  - position: {x: 0.9489441, y: -0.24241257, z: 1.2069774}
+    roll: 0
+  - position: {x: -0.6308167, y: -0.25743484, z: 1.1927676}
+    roll: 0
+  - position: {x: -1.9897437, y: -0.046806335, z: 1.2406707}
+    roll: 0
